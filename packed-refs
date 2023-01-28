@@ -1,9 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-a65000518f5791f1ef85ede89718ec3eaf7136d2 refs/heads/connections
-add0ea0ebda78a7e202d41f04a7a9b6b16d8d5be refs/heads/dev
-1109829008455241ab0b49f781910dd13f1841a7 refs/heads/fixEnvioMailOK
-19a946cbf4a9322de7bb1ccc58cf917af6605516 refs/heads/main
-5937a041354c43e99511b3c8adda5021d0008f76 refs/heads/orders
-bf67569a341f84cf8a9f336eee5a66bd14d531ad refs/heads/products
-5ba8393f198fd2ecbdd7b8c1b2ab6fad3e03580e refs/heads/sendEmail
-e3d46784862a47ce011b38dd8a415448f764164f refs/heads/users

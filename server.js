@@ -48,7 +48,7 @@ app.post('/create-payment', async(req, res)=> {
 
 
 server.listen(8080, ()=> {
-  console.log('Servidor corriendo en el puerto', 8080)
+  console.log('Servidor corriendo en el puerto', 1111)
 })
 
 app.set('socketio', io);
